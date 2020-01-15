@@ -1,0 +1,9 @@
+.App-clock{
+    display: block;
+    width: 200px;
+    background-color: #95dada;
+    border: 1px solid rgba(0, 0 ,0 , 0.5);
+    padding : 10px;
+    border-radius: 5px;
+    margin : 15px auto;
+}
